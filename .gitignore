@@ -1,0 +1,17 @@
+# Flutter/Dart-specific ignores
+.dart_tool/
+.idea/
+.metadata
+android/build/
+ios/Pods/
+ios/.symlinks/
+ios/Frameworks/
+*.iml
+
+# General ignores
+.DS_Store
+*.log
+/packages/*/build/
+/build/
+/ios/Flutter/App.framework
+/ios/Flutter/Flutter.framework

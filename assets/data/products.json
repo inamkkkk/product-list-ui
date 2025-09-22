@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Awesome T-Shirt",
+    "price": 25.99,
+    "imageUrl": "https://fakestoreapi.com/img/71-3HjGNDUL._AC_SY879._SX._UX._SY._UY_.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Cool Jeans",
+    "price": 59.50,
+    "imageUrl": "https://fakestoreapi.com/img/71YXzeOuslL._AC_UY879_.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Stylish Jacket",
+    "price": 89.99,
+    "imageUrl": "https://fakestoreapi.com/img/71HblAHs5xL._AC_UY879_-2.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Elegant Shoes",
+    "price": 45.00,
+    "imageUrl": "https://fakestoreapi.com/img/61pHAEoV7YL._AC_UL640_QL65_ML3_.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Trendy Backpack",
+    "price": 32.75,
+    "imageUrl": "https://fakestoreapi.com/img/81fPKd-cdhL._AC_UL640_QL65_ML3_.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Cozy Sweater",
+    "price": 49.99,
+    "imageUrl": "https://fakestoreapi.com/img/71z3kpMAYsL._AC_UY879_.jpg"
+  }
+]
